@@ -1,0 +1,24 @@
+{
+  "name": "backbone skeleton",
+  "version": "0.0.0",
+  "authors": [
+    "Adrian Lawrence"
+  ],
+  "description": "backbone skeleton",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "jquery": "~2.1.0",
+    "underscore": "~1.5.2",
+    "foundation": "~5.1.1",
+    "normalize-css": "~3.0.0"
+  }
+}
