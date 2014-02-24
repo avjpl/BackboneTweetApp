@@ -1,0 +1,21 @@
+{
+  "name": "beginning-bb",
+  "version": "0.0.0",
+  "description": "twitter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/avjpl/put new name here.git"
+  },
+  "author": "Adrian Lawrence",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/avjpl/backboneSkel/issues"
+  },
+  "dependencies": {
+    "twit": "~1.1.12"
+  }
+}
