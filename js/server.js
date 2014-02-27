@@ -7,10 +7,10 @@ var client = null;
 
 function connectToTwitter() {
     client = new Twit({
-        consumer_key:       'w0NJPLj0463HUD3VTBcWqw',
-        consumer_secret:    'YZxb0WpGRyuYf1h1aehqoxf1G6wQ80wGQhHIHO9Hk',
-        access_token:       '14645589-HluCpUpt222PhM39JN0M2TEpNjCUkmqCrx1Lordax',
-        access_token_secret:'bIAN7SmY9dBOcerCts73uWnOc2jpZYRCRDXwHqmVRX1A8'
+        consumer_key:       '',
+        consumer_secret:    '',
+        access_token:       '',
+        access_token_secret:''
     });
 }
 
